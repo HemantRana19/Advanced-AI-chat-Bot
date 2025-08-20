@@ -31,7 +31,11 @@ A web-based conversational AI chatbot powered by Google Gemini API. This project
 
 ## Screenshots
 
-> *(Add screenshots of your chatbot UI here for better visualization)*
+
+
+https://github.com/user-attachments/assets/4f77b64d-0be0-4769-97ac-7fa7020c2ac1
+
+
 
 ---
 
@@ -93,5 +97,6 @@ This project is provided for educational and personal use.
 Feel free to modify and extend for your own needs.
 
 ---
+
 
 **Enjoy chatting with your AI assistant!**
